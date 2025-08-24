@@ -46,7 +46,7 @@ Provisioned Azure resources:
 - **Dynamic Copy Activity:** ADF pulls data from GitHub via HTTP connector and lands it in the **bronze container** in Azure Storage.  
 - **Parameterization:** Pipeline parameters ensure adaptability for data source changes.  
 
-<img width="1919" height="868" alt="Image" src="https://github.com/user-attachments/assets/220be0a1-94e1-4d71-a8eb-e56cc0a26332" />
+<img width="1919" height="812" alt="Image" src="https://github.com/user-attachments/assets/d93eea78-b4a6-4536-a14e-6b2f00fa97c8" />
 ![Raw Data Storage](image)  
 
 ---
