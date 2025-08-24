@@ -74,12 +74,15 @@ Output stored in **silver container** in **Parquet format** for efficient queryi
 - **Serverless SQL Pools** enabled for cost-efficient querying.  
 - **Database & Schema Setup:** External tables and views created for BI use.  
 
-![Synapse SQL](image)  
-![Data Models](image)  
+<img width="1918" height="861" alt="Image" src="https://github.com/user-attachments/assets/77bca230-9235-4e9a-9141-7cbdc2771cce" />
+
+<img width="1915" height="870" alt="Image" src="https://github.com/user-attachments/assets/3680c3ac-56a9-4542-b797-48c1d5857670" />
+
+
 
 The curated data was finally stored in the **gold container** for BI consumption.  
 
-![Gold Data Lake](image)  
+<img width="1918" height="796" alt="Image" src="https://github.com/user-attachments/assets/88f20958-38a1-4ec5-9f5e-2828a8b39f00" /> 
 
 ---
 
