@@ -82,7 +82,7 @@ Output stored in **silver container** in **Parquet format** for efficient queryi
 
 The curated data was finally stored in the **gold container** for BI consumption.  
 
-<img width="1918" height="796" alt="Image" src="https://github.com/user-attachments/assets/88f20958-38a1-4ec5-9f5e-2828a8b39f00" /> 
+<img width="1919" height="753" alt="Image" src="https://github.com/user-attachments/assets/2f2b2631-4293-4a9e-82d8-90394fb4c535" />
 
 ---
 
