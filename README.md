@@ -65,7 +65,7 @@ Provisioned Azure resources:
 Output stored in **silver container** in **Parquet format** for efficient querying.  
 
 <img width="1911" height="863" alt="Image" src="https://github.com/user-attachments/assets/8a610908-11b8-4a15-92a4-b08dde483ef5" />
-<img width="1917" height="800" alt="Image" src="https://github.com/user-attachments/assets/44193a73-9eaf-4b11-85a4-b32335dbf272" />
+<img width="1909" height="759" alt="Image" src="https://github.com/user-attachments/assets/23a2d1c3-ded5-49c4-9f0b-dce50a0ec1da" />
 ---
 
 ## 📊 Step 4: Data Warehousing with Azure Synapse Analytics  
