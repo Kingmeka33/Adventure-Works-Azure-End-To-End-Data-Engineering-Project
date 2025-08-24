@@ -88,7 +88,7 @@ The curated data was finally stored in the **gold container** for BI consumption
 - Connected **Power BI** to **Azure Synapse Analytics**.  
 - Designed **dashboards & reports** to present actionable insights.  
 
-![Power BI Dashboard](image)  
+<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/5f89de07-96de-422c-a374-9f8a085e253c" /> 
 
 ---
 
