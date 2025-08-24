@@ -74,9 +74,9 @@ Output stored in **silver container** in **Parquet format** for efficient queryi
 - **Serverless SQL Pools** enabled for cost-efficient querying.  
 - **Database & Schema Setup:** External tables and views created for BI use.  
 
-<img width="1918" height="861" alt="Image" src="https://github.com/user-attachments/assets/77bca230-9235-4e9a-9141-7cbdc2771cce" />
+<img width="1918" height="817" alt="Image" src="https://github.com/user-attachments/assets/8f33f031-022a-4a4d-a3ea-b78bef024469" />
 
-<img width="1915" height="870" alt="Image" src="https://github.com/user-attachments/assets/3680c3ac-56a9-4542-b797-48c1d5857670" />
+<img width="1919" height="818" alt="Image" src="https://github.com/user-attachments/assets/f9382e4a-8649-4ff8-8ec4-d239789fa7c5" />
 
 
 
