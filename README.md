@@ -38,7 +38,7 @@ Provisioned Azure resources:
 - **Azure Synapse Analytics:** Data warehousing for BI use.  
 
 > All resources were configured with proper **Identity and Access Management (IAM)** roles to ensure seamless integration and security.  
-
+<img width="1919" height="812" alt="Image" src="https://github.com/user-attachments/assets/d93eea78-b4a6-4536-a14e-6b2f00fa97c8" />
 ---
 
 ## 🚀 Step 2: Data Pipeline with Azure Data Factory  
@@ -46,8 +46,8 @@ Provisioned Azure resources:
 - **Dynamic Copy Activity:** ADF pulls data from GitHub via HTTP connector and lands it in the **bronze container** in Azure Storage.  
 - **Parameterization:** Pipeline parameters ensure adaptability for data source changes.  
 
-<img width="1919" height="812" alt="Image" src="https://github.com/user-attachments/assets/d93eea78-b4a6-4536-a14e-6b2f00fa97c8" />
-![Raw Data Storage](image)  
+
+<img width="1919" height="870" alt="Image" src="https://github.com/user-attachments/assets/32455762-dd62-477f-b224-df8d18779c00" />
 
 ---
 
