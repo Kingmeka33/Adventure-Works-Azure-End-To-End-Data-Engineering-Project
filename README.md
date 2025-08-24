@@ -24,8 +24,7 @@ This project demonstrates how to design, build, and implement a scalable data pi
 ---
 
 ## 🏗️ Architecture Overview  
-
-![Architecture Diagram](image)  
+<img width="1263" height="670" alt="Image" src="https://github.com/user-attachments/assets/a9000c4d-5cae-4188-abce-341b655b3a3f" />
 
 ---
 
