@@ -54,7 +54,8 @@ Provisioned Azure resources:
 ## 🔄 Step 3: Data Transformation with Azure Databricks  
 
 - **Cluster Setup:** Databricks cluster provisioned for data processing.  
-- **Data Lake Integration:** Connected to Azure Storage.  
+- **Data Lake Integration:** Connected to Azure Storage.
+  <img width="1913" height="866" alt="Image" src="https://github.com/user-attachments/assets/40d2ddb8-bafc-4093-adae-6b233b7e82e1" />
 
 **Transformations performed:**  
 - Normalized date formats.  
@@ -63,9 +64,8 @@ Provisioned Azure resources:
 
 Output stored in **silver container** in **Parquet format** for efficient querying.  
 
-![Databricks Transformation](image)  
-![Silver Data Lake](image)  
-
+<img width="1911" height="863" alt="Image" src="https://github.com/user-attachments/assets/8a610908-11b8-4a15-92a4-b08dde483ef5" />
+<img width="1917" height="800" alt="Image" src="https://github.com/user-attachments/assets/44193a73-9eaf-4b11-85a4-b32335dbf272" />
 ---
 
 ## 📊 Step 4: Data Warehousing with Azure Synapse Analytics  
