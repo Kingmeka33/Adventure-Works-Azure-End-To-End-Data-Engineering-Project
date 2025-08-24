@@ -47,6 +47,7 @@ Provisioned Azure resources:
 - **Parameterization:** Pipeline parameters ensure adaptability for data source changes.  
 
 <img width="1919" height="817" alt="Image" src="https://github.com/user-attachments/assets/df660b74-691c-4720-af87-e2f774e0d4f2" />
+<img width="1913" height="862" alt="Image" src="https://github.com/user-attachments/assets/3f340ee9-4b4f-4e88-9907-97da78000acf" />
 
 ---
 
